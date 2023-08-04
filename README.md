@@ -1,2 +1,2 @@
 # projetoMarcato
-Demosntração GIT
+Demonstração GIT
